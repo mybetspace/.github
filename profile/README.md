@@ -1,4 +1,16 @@
-## Welcome to My Bet Space Organization!
+# Welcome to My Bet Space Organization!
 
-### Join our team's Discord [here](https://discord.gg/rVcmYN9YTS).
+## Here we use the following main technologies:
 
+### On Front-end
+
+- [NuxtJS](https://nuxtjs.org/)
+- [AntDesignVue](https://antdv.com/components/overview)
+- [Less](https://lesscss.org/)
+
+### On Back-end
+
+- [AdonisJS](https://adonisjs.com/)
+- [MySQL](https://www.mysql.com/)
+
+## Join our team's Discord [here](https://discord.gg/rVcmYN9YTS).
