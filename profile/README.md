@@ -1,4 +1,4 @@
-# Welcome to My Bet Space Organization!
+# Welcome to My Bet Space Organization! :smile:
 
 ## Here we use the following main technologies:
 
