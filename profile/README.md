@@ -12,5 +12,6 @@
 
 - [AdonisJS](https://adonisjs.com/)
 - [MySQL](https://www.mysql.com/)
+- [Docker](https://www.docker.com/)
 
 ## Join our team's Discord [here](https://discord.gg/rVcmYN9YTS).
